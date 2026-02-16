@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Rezerve – Akıllı Randevu Yönetimi DEMO
 
-## Getting Started
 
-First, run the development server:
+Randevularınızı tek tıkla yönetin. Kuaför, güzellik salonu, klinik veya ofis – tüm randevularınızı tek platformda toplayın. Daha az stres, daha fazla müşteri memnuniyeti.
+
+---
+
+## Özellikler
+
+| Özellik | Açıklama |
+|--------|----------|
+| **Online Randevu** | 7/24 istediğiniz zaman randevu alın. Müşterileriniz kolayca rezervasyon yapabilsin. |
+| **Detaylı Raporlar** | Gelir, randevu ve müşteri istatistiklerini grafiklerle takip edin. |
+| **Akıllı Takvim** | Personel müsaitliklerine göre otomatik randevu önerileri. |
+| **Güvenli Sistem** | Verileriniz şifreli ve güvende. KVKK uyumlu veri yönetimi. |
+| **Mobil Uyumlu** | Tüm cihazlarda mükemmel çalışan responsive tasarım. |
+| **Anlık Bildirimler** | SMS ve e-posta ile randevu hatırlatmaları ve onayları. |
+
+---
+
+## İstatistikler
+
+- **50K+** Randevu
+- **1200+** İşletme
+- **4.9** Puan
+- **98%** Memnuniyet
+
+---
+
+## Kurulum
+
+Geliştirme sunucusunu çalıştırın:
 
 ```bash
 npm run dev
-# or
+# veya
 yarn dev
-# or
+# veya
 pnpm dev
-# or
+# veya
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Tarayıcıda [http://localhost:3000](http://localhost:3000) adresini açın.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Sayfayı düzenlemek için `app/page.tsx` dosyasını değiştirin; değişiklikler otomatik yansır.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Teknolojiler
 
-To learn more about Next.js, take a look at the following resources:
+- [Next.js](https://nextjs.org) – React tabanlı full-stack framework
+- [next/font](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) – Geist font optimizasyonu
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Daha Fazla Bilgi
 
-## Deploy on Vercel
+- [Next.js Dokümantasyonu](https://nextjs.org/docs)
+- [Next.js Öğren](https://nextjs.org/learn)
+- [Next.js GitHub](https://github.com/vercel/next.js)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Vercel ile Deploy
+
+Next.js uygulamanızı [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) üzerinden kolayca yayınlayabilirsiniz. Detaylar için [Next.js deployment dokümantasyonuna](https://nextjs.org/docs/app/building-your-application/deploying) bakın.
+
+---
+
+© 2025 Rezerve. Tüm hakları saklıdır.

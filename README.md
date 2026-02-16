@@ -1,7 +1,14 @@
 # Rezerve – Akıllı Randevu Yönetimi DEMO
 
-
 Randevularınızı tek tıkla yönetin. Kuaför, güzellik salonu, klinik veya ofis – tüm randevularınızı tek platformda toplayın. Daha az stres, daha fazla müşteri memnuniyeti.
+
+---
+
+## Uygulama Ekran Görüntüleri
+
+| Ana Sayfa | Dashboard | Randevular | Yeni Randevu |
+|-----------|-----------|------------|--------------|
+| ![Ana Sayfa](public/InAppScreenShots/Mainpage.png) | ![Dashboard](public/InAppScreenShots/dashboard.png) | ![Randevular](public/InAppScreenShots/Appointments.png) | ![Yeni Randevu](public/InAppScreenShots/NewAppointment.png) |
 
 ---
 
